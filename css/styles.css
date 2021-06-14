@@ -1,0 +1,62 @@
+body {
+  font-family: 'Didact Gothic', sans-serif;
+   }
+
+h1, h2, h3, h5 {
+  font-family: 'Playfair Display', serif; }
+
+h2 {
+  color: black; }
+
+header h2 { 
+  font-family: 'Didact Gothic', sans-serif;
+  font-size: 25px;}
+
+img {
+    border-radius: 50%;
+  }
+
+a, a:link {
+  color: black;
+}
+ a:hover {
+   color: white;
+ }
+.quote {
+  text-align: center;
+    font-size: 40px;
+  }
+
+.site-footer {
+  background-color: #8fc0a9;
+  padding: 20px 0; }
+
+.jumbotron {
+  margin: 0;
+  padding: 30px;
+  background-color: #fbe2e5;
+ }
+
+.row-content {
+  padding: 50px 0;
+  border-bottom: 1px ridge;
+  min-height: 200px; }
+
+.navbar {
+  background-color: #8fc0a9;
+  font-size: 1.5rem; }
+
+  blockquote footer {
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    }
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.7); }
+
+#carouselButton {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  z-index: 100; }
+
